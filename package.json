@@ -1,0 +1,21 @@
+{
+  "name": "triangular-iguana-drifting-akina-limitlessly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "asyncawait": "^1.0.6",
+    "ffmetadata": "^1.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "mkdirp": "^0.5.1",
+    "queue": "^4.2.1",
+    "rtmp-download": "0.0.3",
+    "sanitize-filename": "^1.6.1",
+    "deasync": "^0.1.4",
+    "request": "^2.69.0"
+  }
+}
